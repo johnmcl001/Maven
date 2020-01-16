@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.mycompany.app.AppTest" time="0.024" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.mycompany.app.AppTest" time="0.02" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
     <property name="java.specification.version" value="11"/>
     <property name="sun.cpu.isalist" value=""/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.class.path" value="/home/jmcl/Documents/Maven/Maven/my-app/target/test-classes:/home/jmcl/Documents/Maven/Maven/my-app/target/classes:/home/jmcl/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/jmcl/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="java.class.path" value="/home/jmcl/Documents/Maven/Maven/target/test-classes:/home/jmcl/Documents/Maven/Maven/target/classes:/home/jmcl/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/jmcl/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
@@ -15,9 +15,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk/lib"/>
-    <property name="sun.java.command" value="/home/jmcl/Documents/Maven/Maven/my-app/target/surefire/surefirebooter2133725364828131095.jar /home/jmcl/Documents/Maven/Maven/my-app/target/surefire 2020-01-13T12-35-45_196-jvmRun1 surefire14761371710475559922tmp surefire_05558821298954129883tmp"/>
+    <property name="sun.java.command" value="/home/jmcl/Documents/Maven/Maven/target/surefire/surefirebooter5966150662227731496.jar /home/jmcl/Documents/Maven/Maven/target/surefire 2020-01-16T12-01-44_620-jvmRun1 surefire3081168081435837951tmp surefire_017927256517766798595tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="/home/jmcl/Documents/Maven/Maven/my-app/target/test-classes:/home/jmcl/Documents/Maven/Maven/my-app/target/classes:/home/jmcl/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/jmcl/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="surefire.test.class.path" value="/home/jmcl/Documents/Maven/Maven/target/test-classes:/home/jmcl/Documents/Maven/Maven/target/classes:/home/jmcl/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/jmcl/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/home/jmcl"/>
     <property name="user.language" value="en"/>
@@ -25,13 +25,13 @@
     <property name="java.version.date" value="2019-10-15"/>
     <property name="java.home" value="/usr/lib/jvm/java-11-openjdk"/>
     <property name="file.separator" value="/"/>
-    <property name="basedir" value="/home/jmcl/Documents/Maven/Maven/my-app"/>
+    <property name="basedir" value="/home/jmcl/Documents/Maven/Maven"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/jmcl/Documents/Maven/Maven/my-app/target/surefire/surefirebooter2133725364828131095.jar"/>
+    <property name="surefire.real.class.path" value="/home/jmcl/Documents/Maven/Maven/target/surefire/surefirebooter5966150662227731496.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.5+10"/>
     <property name="user.name" value="jmcl"/>
@@ -44,7 +44,7 @@
     <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="/tmp"/>
     <property name="java.version" value="11.0.5"/>
-    <property name="user.dir" value="/home/jmcl/Documents/Maven/Maven/my-app"/>
+    <property name="user.dir" value="/home/jmcl/Documents/Maven/Maven"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
